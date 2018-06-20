@@ -8,38 +8,38 @@
 
 /* Begin PBXBuildFile section */
 		15108B0020DA8FF900C3E5F0 /* ABVideoRangeSlider.h in Headers */ = {isa = PBXBuildFile; fileRef = 15108AFE20DA8FF900C3E5F0 /* ABVideoRangeSlider.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		15108B1520DA901200C3E5F0 /* ABBorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15108B0720DA901200C3E5F0 /* ABBorder.swift */; };
-		15108B1620DA901200C3E5F0 /* ABEndIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15108B0820DA901200C3E5F0 /* ABEndIndicator.swift */; };
-		15108B1720DA901200C3E5F0 /* ABProgressIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15108B0920DA901200C3E5F0 /* ABProgressIndicator.swift */; };
-		15108B1820DA901200C3E5F0 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 15108B0A20DA901200C3E5F0 /* .gitkeep */; };
-		15108B1920DA901200C3E5F0 /* ABThumbnailsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15108B0B20DA901200C3E5F0 /* ABThumbnailsManager.swift */; };
-		15108B1A20DA901200C3E5F0 /* ABVideoRangeSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15108B0C20DA901200C3E5F0 /* ABVideoRangeSlider.swift */; };
-		15108B1B20DA901200C3E5F0 /* ABStartIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15108B0D20DA901200C3E5F0 /* ABStartIndicator.swift */; };
-		15108B1C20DA901200C3E5F0 /* ABTimeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15108B0E20DA901200C3E5F0 /* ABTimeView.swift */; };
-		15108B1D20DA901200C3E5F0 /* ABVideoHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15108B0F20DA901200C3E5F0 /* ABVideoHelper.swift */; };
-		15108B1E20DA901200C3E5F0 /* BorderLine.png in Resources */ = {isa = PBXBuildFile; fileRef = 15108B1120DA901200C3E5F0 /* BorderLine.png */; };
-		15108B1F20DA901200C3E5F0 /* StartIndicator.png in Resources */ = {isa = PBXBuildFile; fileRef = 15108B1220DA901200C3E5F0 /* StartIndicator.png */; };
-		15108B2020DA901200C3E5F0 /* EndIndicator.png in Resources */ = {isa = PBXBuildFile; fileRef = 15108B1320DA901200C3E5F0 /* EndIndicator.png */; };
-		15108B2120DA901200C3E5F0 /* ProgressIndicator.png in Resources */ = {isa = PBXBuildFile; fileRef = 15108B1420DA901200C3E5F0 /* ProgressIndicator.png */; };
+		15108B3120DA924100C3E5F0 /* ABBorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15108B2320DA924100C3E5F0 /* ABBorder.swift */; };
+		15108B3220DA924100C3E5F0 /* ABEndIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15108B2420DA924100C3E5F0 /* ABEndIndicator.swift */; };
+		15108B3320DA924100C3E5F0 /* ABProgressIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15108B2520DA924100C3E5F0 /* ABProgressIndicator.swift */; };
+		15108B3420DA924100C3E5F0 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 15108B2620DA924100C3E5F0 /* .gitkeep */; };
+		15108B3520DA924100C3E5F0 /* ABThumbnailsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15108B2720DA924100C3E5F0 /* ABThumbnailsManager.swift */; };
+		15108B3620DA924100C3E5F0 /* ABVideoRangeSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15108B2820DA924100C3E5F0 /* ABVideoRangeSlider.swift */; };
+		15108B3720DA924100C3E5F0 /* ABStartIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15108B2920DA924100C3E5F0 /* ABStartIndicator.swift */; };
+		15108B3820DA924100C3E5F0 /* ABTimeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15108B2A20DA924100C3E5F0 /* ABTimeView.swift */; };
+		15108B3920DA924100C3E5F0 /* ABVideoHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15108B2B20DA924100C3E5F0 /* ABVideoHelper.swift */; };
+		15108B3A20DA924100C3E5F0 /* BorderLine.png in Resources */ = {isa = PBXBuildFile; fileRef = 15108B2D20DA924100C3E5F0 /* BorderLine.png */; };
+		15108B3B20DA924100C3E5F0 /* StartIndicator.png in Resources */ = {isa = PBXBuildFile; fileRef = 15108B2E20DA924100C3E5F0 /* StartIndicator.png */; };
+		15108B3C20DA924100C3E5F0 /* EndIndicator.png in Resources */ = {isa = PBXBuildFile; fileRef = 15108B2F20DA924100C3E5F0 /* EndIndicator.png */; };
+		15108B3D20DA924100C3E5F0 /* ProgressIndicator.png in Resources */ = {isa = PBXBuildFile; fileRef = 15108B3020DA924100C3E5F0 /* ProgressIndicator.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		15108AFB20DA8FF900C3E5F0 /* ABVideoRangeSlider.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ABVideoRangeSlider.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		15108AFE20DA8FF900C3E5F0 /* ABVideoRangeSlider.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ABVideoRangeSlider.h; sourceTree = "<group>"; };
 		15108AFF20DA8FF900C3E5F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		15108B0720DA901200C3E5F0 /* ABBorder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ABBorder.swift; sourceTree = "<group>"; };
-		15108B0820DA901200C3E5F0 /* ABEndIndicator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ABEndIndicator.swift; sourceTree = "<group>"; };
-		15108B0920DA901200C3E5F0 /* ABProgressIndicator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ABProgressIndicator.swift; sourceTree = "<group>"; };
-		15108B0A20DA901200C3E5F0 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
-		15108B0B20DA901200C3E5F0 /* ABThumbnailsManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ABThumbnailsManager.swift; sourceTree = "<group>"; };
-		15108B0C20DA901200C3E5F0 /* ABVideoRangeSlider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ABVideoRangeSlider.swift; sourceTree = "<group>"; };
-		15108B0D20DA901200C3E5F0 /* ABStartIndicator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ABStartIndicator.swift; sourceTree = "<group>"; };
-		15108B0E20DA901200C3E5F0 /* ABTimeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ABTimeView.swift; sourceTree = "<group>"; };
-		15108B0F20DA901200C3E5F0 /* ABVideoHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ABVideoHelper.swift; sourceTree = "<group>"; };
-		15108B1120DA901200C3E5F0 /* BorderLine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BorderLine.png; sourceTree = "<group>"; };
-		15108B1220DA901200C3E5F0 /* StartIndicator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StartIndicator.png; sourceTree = "<group>"; };
-		15108B1320DA901200C3E5F0 /* EndIndicator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = EndIndicator.png; sourceTree = "<group>"; };
-		15108B1420DA901200C3E5F0 /* ProgressIndicator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ProgressIndicator.png; sourceTree = "<group>"; };
+		15108B2320DA924100C3E5F0 /* ABBorder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ABBorder.swift; sourceTree = "<group>"; };
+		15108B2420DA924100C3E5F0 /* ABEndIndicator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ABEndIndicator.swift; sourceTree = "<group>"; };
+		15108B2520DA924100C3E5F0 /* ABProgressIndicator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ABProgressIndicator.swift; sourceTree = "<group>"; };
+		15108B2620DA924100C3E5F0 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		15108B2720DA924100C3E5F0 /* ABThumbnailsManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ABThumbnailsManager.swift; sourceTree = "<group>"; };
+		15108B2820DA924100C3E5F0 /* ABVideoRangeSlider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ABVideoRangeSlider.swift; sourceTree = "<group>"; };
+		15108B2920DA924100C3E5F0 /* ABStartIndicator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ABStartIndicator.swift; sourceTree = "<group>"; };
+		15108B2A20DA924100C3E5F0 /* ABTimeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ABTimeView.swift; sourceTree = "<group>"; };
+		15108B2B20DA924100C3E5F0 /* ABVideoHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ABVideoHelper.swift; sourceTree = "<group>"; };
+		15108B2D20DA924100C3E5F0 /* BorderLine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BorderLine.png; sourceTree = "<group>"; };
+		15108B2E20DA924100C3E5F0 /* StartIndicator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StartIndicator.png; sourceTree = "<group>"; };
+		15108B2F20DA924100C3E5F0 /* EndIndicator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = EndIndicator.png; sourceTree = "<group>"; };
+		15108B3020DA924100C3E5F0 /* ProgressIndicator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ProgressIndicator.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,42 +72,42 @@
 		15108AFD20DA8FF900C3E5F0 /* ABVideoRangeSlider */ = {
 			isa = PBXGroup;
 			children = (
-				15108B1020DA901200C3E5F0 /* Assets */,
-				15108B0620DA901200C3E5F0 /* Classes */,
+				15108B2C20DA924100C3E5F0 /* Assets */,
+				15108B2220DA924100C3E5F0 /* Classes */,
 				15108AFE20DA8FF900C3E5F0 /* ABVideoRangeSlider.h */,
 				15108AFF20DA8FF900C3E5F0 /* Info.plist */,
 			);
 			path = ABVideoRangeSlider;
 			sourceTree = "<group>";
 		};
-		15108B0620DA901200C3E5F0 /* Classes */ = {
+		15108B2220DA924100C3E5F0 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				15108B0720DA901200C3E5F0 /* ABBorder.swift */,
-				15108B0820DA901200C3E5F0 /* ABEndIndicator.swift */,
-				15108B0920DA901200C3E5F0 /* ABProgressIndicator.swift */,
-				15108B0A20DA901200C3E5F0 /* .gitkeep */,
-				15108B0B20DA901200C3E5F0 /* ABThumbnailsManager.swift */,
-				15108B0C20DA901200C3E5F0 /* ABVideoRangeSlider.swift */,
-				15108B0D20DA901200C3E5F0 /* ABStartIndicator.swift */,
-				15108B0E20DA901200C3E5F0 /* ABTimeView.swift */,
-				15108B0F20DA901200C3E5F0 /* ABVideoHelper.swift */,
+				15108B2320DA924100C3E5F0 /* ABBorder.swift */,
+				15108B2420DA924100C3E5F0 /* ABEndIndicator.swift */,
+				15108B2520DA924100C3E5F0 /* ABProgressIndicator.swift */,
+				15108B2620DA924100C3E5F0 /* .gitkeep */,
+				15108B2720DA924100C3E5F0 /* ABThumbnailsManager.swift */,
+				15108B2820DA924100C3E5F0 /* ABVideoRangeSlider.swift */,
+				15108B2920DA924100C3E5F0 /* ABStartIndicator.swift */,
+				15108B2A20DA924100C3E5F0 /* ABTimeView.swift */,
+				15108B2B20DA924100C3E5F0 /* ABVideoHelper.swift */,
 			);
 			name = Classes;
-			path = ../../ABVideoRangeSlider_Code/Classes;
-			sourceTree = "<group>";
+			path = ABVideoRangeSlider_Code/Classes;
+			sourceTree = SOURCE_ROOT;
 		};
-		15108B1020DA901200C3E5F0 /* Assets */ = {
+		15108B2C20DA924100C3E5F0 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				15108B1120DA901200C3E5F0 /* BorderLine.png */,
-				15108B1220DA901200C3E5F0 /* StartIndicator.png */,
-				15108B1320DA901200C3E5F0 /* EndIndicator.png */,
-				15108B1420DA901200C3E5F0 /* ProgressIndicator.png */,
+				15108B2D20DA924100C3E5F0 /* BorderLine.png */,
+				15108B2E20DA924100C3E5F0 /* StartIndicator.png */,
+				15108B2F20DA924100C3E5F0 /* EndIndicator.png */,
+				15108B3020DA924100C3E5F0 /* ProgressIndicator.png */,
 			);
 			name = Assets;
-			path = ../../ABVideoRangeSlider_Code/Assets;
-			sourceTree = "<group>";
+			path = ABVideoRangeSlider_Code/Assets;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -177,11 +177,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				15108B1820DA901200C3E5F0 /* .gitkeep in Resources */,
-				15108B1F20DA901200C3E5F0 /* StartIndicator.png in Resources */,
-				15108B1E20DA901200C3E5F0 /* BorderLine.png in Resources */,
-				15108B2020DA901200C3E5F0 /* EndIndicator.png in Resources */,
-				15108B2120DA901200C3E5F0 /* ProgressIndicator.png in Resources */,
+				15108B3420DA924100C3E5F0 /* .gitkeep in Resources */,
+				15108B3B20DA924100C3E5F0 /* StartIndicator.png in Resources */,
+				15108B3A20DA924100C3E5F0 /* BorderLine.png in Resources */,
+				15108B3C20DA924100C3E5F0 /* EndIndicator.png in Resources */,
+				15108B3D20DA924100C3E5F0 /* ProgressIndicator.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -192,14 +192,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				15108B1D20DA901200C3E5F0 /* ABVideoHelper.swift in Sources */,
-				15108B1720DA901200C3E5F0 /* ABProgressIndicator.swift in Sources */,
-				15108B1920DA901200C3E5F0 /* ABThumbnailsManager.swift in Sources */,
-				15108B1C20DA901200C3E5F0 /* ABTimeView.swift in Sources */,
-				15108B1A20DA901200C3E5F0 /* ABVideoRangeSlider.swift in Sources */,
-				15108B1B20DA901200C3E5F0 /* ABStartIndicator.swift in Sources */,
-				15108B1620DA901200C3E5F0 /* ABEndIndicator.swift in Sources */,
-				15108B1520DA901200C3E5F0 /* ABBorder.swift in Sources */,
+				15108B3920DA924100C3E5F0 /* ABVideoHelper.swift in Sources */,
+				15108B3320DA924100C3E5F0 /* ABProgressIndicator.swift in Sources */,
+				15108B3520DA924100C3E5F0 /* ABThumbnailsManager.swift in Sources */,
+				15108B3820DA924100C3E5F0 /* ABTimeView.swift in Sources */,
+				15108B3620DA924100C3E5F0 /* ABVideoRangeSlider.swift in Sources */,
+				15108B3720DA924100C3E5F0 /* ABStartIndicator.swift in Sources */,
+				15108B3220DA924100C3E5F0 /* ABEndIndicator.swift in Sources */,
+				15108B3120DA924100C3E5F0 /* ABBorder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
